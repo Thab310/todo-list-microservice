@@ -53,6 +53,7 @@ Event-Driven Architecture Challenges
 * Github Actions
 
 ### IAC Pipelines
+
 1. terraform repo (optional) we wont have this repo because we are not building in the cloud. We are building on local infrastructure using minikube. 
 > [!NOTE]
 I will create another gitops microservice project that has this the infrastructure running in AWS.
