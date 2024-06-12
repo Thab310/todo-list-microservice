@@ -7,9 +7,11 @@ This is an `event-driven pub-sub` architecture.
 Each microservice is independably deployable, having it's own repository CI pipeline
  architecture.
 
-> [!WARNING]There is a difference between a `distributed monolith` and a `microservices`
+> [!WARNING]
+> There is a difference between a `distributed monolith` and a `microservices`
 
-> [!TIPS]Use these 5 rules to check if you have a microservice.
+> [!TIP]
+> Use these 5 rules to check if you have a microservice.
 1. Highly maintable and testable
 2. Loosely coupled
 3. Organized around business capabilities
